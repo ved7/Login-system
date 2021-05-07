@@ -1,0 +1,21 @@
+#navigation,
+.navbar,
+body,
+.card {
+  background-image: url("https://www.wallpaperflare.com/static/436/228/997/movies-mad-max-the-dark-knight-interstellar-movie-wallpaper.jpg");
+  background-size: cover;
+}
+.navbar {
+  color: white;
+}
+.card {
+  margin: 0 auto;
+  max-width: 700px;
+  height: 100px;
+  background-color: #ccc;
+  border-radius: 3px;
+}
+.card > h2,
+.form-label {
+  color: white;
+}
