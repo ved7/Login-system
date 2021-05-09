@@ -4,3 +4,5 @@
 * Used **handlebar** as view template.
 * Application is made by **node js** and for storing the user details **mysql database** is used.
 * In order to hash the user password i used **brcypt library**. 
+
+<h1>Structure</h1>
