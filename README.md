@@ -5,7 +5,7 @@
 * Application is made by **node js** and for storing the user details **mysql database** is used.
 * In order to hash the user password i used **brcypt library**. 
 
-![alt-text](https://i.imgur.com/ifDuw35.gif)
+<img src="https://imgur.com/AAzmkEq" width="850" height="550"/>
 
 
 <h1>Structure</h1>
