@@ -6,3 +6,6 @@
 * In order to hash the user password i used **brcypt library**. 
 
 <h1>Structure</h1>
+Features of this node js application : 1. allow secure login/register system with user saved in my sql database.
+2. No user password is saved in database which allows secure login only by the autherized person and restrict the creator to access user passwords.
+3. This has been done by bcrypt library enabling onyl the hashed password to get stored not the actual one.
