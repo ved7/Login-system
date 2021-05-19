@@ -8,7 +8,7 @@
 <img src="https://i.imgur.com/q3g2FeX.gif" width="850" height="550"/>
 
 
-<h1>Structure</h1>
+<h1><u>Structure</u></h1>
 <h3>Features of this node js application</h3><br>
 <li> allow secure login/register system with user saved in my sql database.</li>
 <li> No user password is saved in database which allows secure login only by the autherized person and restrict the creator to access user passwords.</li>
