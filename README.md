@@ -14,3 +14,8 @@
 <li> No user password is saved in database which allows secure login only by the autherized person and restrict the creator to access user passwords.</li>
 <li> This has been done by bcrypt library enabling onyl the hashed password to get stored not the actual one.</li>
 <li>Cookies has been used for user login session which have certain life to be retained.</li>
+
+<h3>Why Mysql database ? </h3>
+<li>More flexible</l1>
+<li>Easy to use</l1>
+<li>Easier query commands</l1>
